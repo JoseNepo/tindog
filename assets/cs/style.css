@@ -16,3 +16,9 @@ body {
 		background-position: 0% 50%;
 	}
 }
+
+
+.btn img {
+    height: 3.0rem;
+    padding-right: 5px;    
+}
